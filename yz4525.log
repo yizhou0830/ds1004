@@ -38,20 +38,20 @@ yz4029
 * 62cc00f add 11
 yz4525
 *   39bc264 merge3 merges merge2.
-|\  
+|\
 | *   6e55412 test11 merges merge1
-| |\  
+| |\
 | * | ff13953 5th commit (1st on test11).
 * | |   6254669 merge1 merges test21.
-|\ \ \  
-| | |/  
-| |/|   
+|\ \ \
+| | |/
+| |/|
 | * |   cd926f7 test1 merges test2
-| |\ \  
-| | |/  
+| |\ \
+| | |/
 | | * 1742bf3 2nd commit (1st on test1).
 * | | bfa7071 7th commit (1st on test21).
-|/ /  
+|/ /
 * | 2c6d53c 3rd commit (1st on test2).
-|/  
+|/
 * 0a95d01 1st commit (1st on master)
