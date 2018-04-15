@@ -1,3 +1,22 @@
+lq437
+*   332ccdd Merge branches 'testing' and 'whatever'
+|\  
+| *   7c5de0a Merge branch 'master' into whatever
+| |\  
+| * | 812798c 5th commit (2nd on whatever)
+* | |   b43ef2c Merge branch 'master' into testing
+|\ \ \  
+| | |/  
+| |/|   
+| * |   8cae0e7 Merge branches 'testing' and 'whatever'
+| |\ \  
+| | |/  
+| | * 17f5685 3rd commit (1st on whatever).
+* | | 4ab155d 4th commit (2nd on testing).
+|/ /  
+* | d1d0b18 2nd commit (1st on testing).
+|/  
+* 5bc0517 1st commit (1st on master).
 yz4029
 *   73cb760 merge 41,42 into 51
 |\  
